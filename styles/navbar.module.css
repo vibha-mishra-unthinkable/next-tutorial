@@ -1,0 +1,14 @@
+.navbarLists {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+}
+.navbarList {
+  margin: 1rem;
+  font-size: 2rem;
+}
+.navbarList:hover {
+  color: brown;
+  cursor: pointer;
+}
